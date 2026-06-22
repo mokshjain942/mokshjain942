@@ -1,7 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:6a0dad,100:0d0221&height=280&section=header&text=Moksh%20Jain&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CSE%20(AI%20%26%20ML)%20%7C%20Builder%20%7C%20Internship-Seeking%20Developer&descAlignY=55&descSize=18" width="100%"/>
+# ⚡ Moksh Jain
 
+### B.Tech CSE (AI & ML) · Builder · Internship-Seeking Developer
+
+I build things, break them, and rebuild them better — currently turning that habit into a public body of work.
 <br/>
 
 <a href="https://git.io/typing-svg">
@@ -18,34 +21,32 @@
 
 <br/>
 
+
+
 ## 🧠 About Me
 
-```python
-class MokshJain:
-    def __init__(self):
-        self.name = "Moksh Jain"
-        self.role = "CS Student | Builder | Internship-Seeking Developer"
-        self.education = "B.Tech CSE (AI & ML) — 2nd Year, 3rd Semester"
-        self.college = "Lachoo Memorial College of Science & Technology"
-        self.location = "Jodhpur, Rajasthan, India 🇮🇳"
-        self.currently_learning = [
-            "Full-Stack Development", "React", "Node.js",
-            "AI-Assisted Workflows", "UI/UX Thinking"
-        ]
-        self.mission = "Build real things, present them well, and grow in public"
+**Moksh Jain** — CS Student · Builder · Internship-Seeking Developer
 
-    def current_status(self):
-        return "Shipping projects, building my GitHub brand, learning by doing 🚀"
-
-me = MokshJain()
-print(me.current_status())
-```
+- 🎓 **Education:** B.Tech CSE (AI & ML) — 2nd Year, 3rd Semester
+- 🏫 **College:** Lachoo Memorial College of Science & Technology
+- 📍 **Location:** Jodhpur, Rajasthan, India
+- 🌱 **Currently learning:** Full-Stack Development, React, Node.js, AI-Assisted Workflows, UI/UX Thinking
+- 🎯 **Mission:** Build real things, present them well, and grow in public
+- 🚀 **Right now:** Shipping projects, building my GitHub brand, learning by doing
 
 I'm a **2nd-year Computer Science Engineering student** (AI & ML specialization) at Lachoo Memorial College of Science & Technology, also learning full-stack development through **NxtWave's CCBP 4.0 Academy**. I don't just follow tutorials — I build things end to end: a survival game made for the feel of it, an AI-assisted music and poster project made for the story of it.
 
 I care as much about *how* something is presented as *how* it's built — which is why my GitHub profile is treated like a product, not an afterthought.
 
 <br/>
+
+
+I'm a **2nd-year Computer Science Engineering student** (AI & ML specialization) at Lachoo Memorial College of Science & Technology, also learning full-stack development through **NxtWave's CCBP 4.0 Academy**. I don't just follow tutorials — I build things end to end: a survival game made for the feel of it, an AI-assisted music and poster project made for the story of it.
+
+I care as much about *how* something is presented as *how* it's built — which is why my GitHub profile is treated like a product, not an afterthought.
+
+<br/>
+
 
 ## 🎯 Current Focus
 
@@ -160,21 +161,16 @@ Built for a Battle of Bands / Music Night-style event.
 
 ## 🧗 Learning Journey
 
-```text
-2024-25 ── Started B.Tech CSE | Core fundamentals, Python, C, web basics
-   │
-2025-26 ── Joined NxtWave CCBP 4.0 Academy | Full-stack exposure begins
-   │         Built Neon Surge — first independently shipped project
-   │         15-day internship: LinkedIn optimization, AI tools, LaTeX,
-   │         prompt-driven workflows, personal portfolio building
-   │
-2026 ── ── Deep-diving into front-end + full-stack (React, Node.js)
-   │         AI Music + Poster creative project — AI x storytelling
-   │         Treating GitHub & portfolio as an active personal brand
-   ▼
- Now ──── Targeting internships | Building Internsharp (a real product)
-          Goal: become a developer who builds AND communicates well 🎯
-```
+- **2024–25 — Started B.Tech CSE:** Core fundamentals, Python, C, web basics
+- **2025–26 — Joined NxtWave CCBP 4.0 Academy:** Full-stack exposure begins
+  - Built Neon Surge — first independently shipped project
+  - 15-day internship: LinkedIn optimization, AI tools, LaTeX, prompt-driven workflows, personal portfolio building
+- **2026 — Deep-diving into front-end + full-stack** (React, Node.js)
+  - AI Music + Poster creative project — AI x storytelling
+  - Treating GitHub & portfolio as an active personal brand
+- **Now — Targeting internships:** Building Internsharp (a real product)
+  - Goal: become a developer who builds AND communicates well 🎯
+
 
 <br/>
 
