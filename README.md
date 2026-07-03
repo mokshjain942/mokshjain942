@@ -161,7 +161,7 @@ Built for a Battle of Bands / Music Night-style event.
 
 ## 🧗 Learning Journey
 
-- **2024–25 — Started B.Tech CSE:** Core fundamentals, Python, C, web basics
+- **2025–26 — Started B.Tech CSE:** Core fundamentals, Python, C, web basics
 - **2025–26 — Joined NxtWave CCBP 4.0 Academy:** Full-stack exposure begins
   - Built Neon Surge — first independently shipped project
   - 15-day internship: LinkedIn optimization, AI tools, LaTeX, prompt-driven workflows, personal portfolio building
